@@ -1,3 +1,8 @@
+/*
+Authored by: Pearl Walker and Presley Smith
+Course: IGME.201.01 (Interactive Design & Algebraic Problem Solving III)
+Date: October 13, 2024
+*/
 class Program
 {
 static void MainMethod()
