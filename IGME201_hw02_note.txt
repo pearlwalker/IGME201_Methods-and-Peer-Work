@@ -10,18 +10,23 @@ pearlFavoriteNumber = 27;
 presleyFavoriteNumber = 0;
 
 //Start of the actual program
-console.WriteLine("Pearl's favorite number is " + pearlFavoriteNumber + ".");
-console.WriteLIne("Presley's favorite number is " + presleyFavoriteNumber + ".");
+Console.WriteLine("Pearl's favorite number is " + pearlFavoriteNumber + ".");
+Console.WriteLIne("Presley's favorite number is " + presleyFavoriteNumber + ".");
 
-//Partner B Subtract method
+//Create partner B Subtract method
 static int Subtract(int num1, int num2){
 int answer = 0;
 answer = num1 - num2;
 return answer;
 }
+
+//Call Add method
+int sum = Add(pearlFavoriteNumber, presleyFavoriteNumber);
+Console.WriteLine("When you add Pearl's favorite number and Presley's favorite number, you get " + sum + "!");
+
 }
 
-//Partner A Add method
+//Create partner A Add method
 static int Add(int num1, int num2){
 int answer = 0;
 answer = num1 + num2;
