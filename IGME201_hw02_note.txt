@@ -7,6 +7,7 @@ class Program
 {
 static void MainMethod()
 {
+//declare favorite numbers
 int presleyFavoriteNumber = 0;
 int pearlFavoriteNumber = 0;
 
@@ -18,7 +19,7 @@ presleyFavoriteNumber = 0;
 Console.WriteLine("Pearl's favorite number is " + pearlFavoriteNumber + ".");
 Console.WriteLIne("Presley's favorite number is " + presleyFavoriteNumber + ".");
 
-//Create partner B Subtract method
+//Subtract method
 static int Subtract(int num1, int num2){
 int answer = 0;
 answer = num1 - num2;
@@ -34,7 +35,15 @@ int difference = Subtract(pearlFavoriteNumber, presleyFavoriteNumber);
 Console.WriteLine("When you subtract Pearl's favorite number by Presley's favorite number, you get " + difference + "!");
 }
 
-//Create partner A Add method
+//Add method
+
+/// <summary>
+/// Adds two numbers and returns output
+/// </summary>
+/// <param name="num1">Number1</param>
+/// <param name="num2">Number2</param>
+/// <returns>Returns the sum of the numbers</returns>
+
 static int Add(int num1, int num2){
 int answer = 0;
 answer = num1 + num2;
