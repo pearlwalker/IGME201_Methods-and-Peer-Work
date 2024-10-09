@@ -1,0 +1,10 @@
+int presleyFavoriteNumber = 0;
+int pearlFavoriteNumber = 0;
+
+//initialize
+pearlFavoriteNumber = 27;
+presleyFavoriteNumber = 0;
+
+console.WriteLine("Pearl's favorite number is " + pearlFavoriteNumber + ".");
+console.WriteLIne("Presley's favorite number is " + presleyFavoriteNumber + ".");
+
