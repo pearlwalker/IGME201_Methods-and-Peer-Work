@@ -13,5 +13,13 @@ presleyFavoriteNumber = 0;
 console.WriteLine("Pearl's favorite number is " + pearlFavoriteNumber + ".");
 console.WriteLIne("Presley's favorite number is " + presleyFavoriteNumber + ".");
 
+
+}
+
+//Partner A Add method
+static int Add(int num1, int num2){
+int answer = 0;
+answer = num1 + num2;
+return answer;
 }
 }
