@@ -24,6 +24,9 @@ return answer;
 int sum = Add(pearlFavoriteNumber, presleyFavoriteNumber);
 Console.WriteLine("When you add Pearl's favorite number and Presley's favorite number, you get " + sum + "!");
 
+//Call Subtract method
+int difference = Subtract(pearlFavoriteNumber, presleyFavoriteNumber);
+Console.WriteLine("When you subtract Pearl's favorite number by Presley's favorite number, you get " + difference + "!");
 }
 
 //Create partner A Add method
