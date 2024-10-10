@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\presl\\OneDrive\\Documents\\201\\methods-and-peer-work\\methods-peer-work\\methods-peer-work\\methods-peer-work.csproj",
+      "projectUniqueName": "C:\\Users\\presl\\OneDrive\\Documents\\201\\IGME201_Methods-and-Peer-Work\\methods-peer-work\\methods-peer-work.csproj",
       "projectName": "methods-peer-work",
-      "projectPath": "C:\\Users\\presl\\OneDrive\\Documents\\201\\methods-and-peer-work\\methods-peer-work\\methods-peer-work\\methods-peer-work.csproj",
+      "projectPath": "C:\\Users\\presl\\OneDrive\\Documents\\201\\IGME201_Methods-and-Peer-Work\\methods-peer-work\\methods-peer-work.csproj",
       "packagesPath": "C:\\Users\\presl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\presl\\OneDrive\\Documents\\201\\methods-and-peer-work\\methods-peer-work\\methods-peer-work\\obj\\",
+      "outputPath": "C:\\Users\\presl\\OneDrive\\Documents\\201\\IGME201_Methods-and-Peer-Work\\methods-peer-work\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\presl\\AppData\\Roaming\\NuGet\\NuGet.Config",

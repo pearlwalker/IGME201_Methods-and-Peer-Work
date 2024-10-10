@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "methods-peer-work/1.0.0": {
+        "runtime": {
+          "methods-peer-work.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "methods-peer-work/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

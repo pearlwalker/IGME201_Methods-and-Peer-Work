@@ -1,0 +1,15 @@
+C:\Users\presl\OneDrive\Documents\201\IGME201_Methods-and-Peer-Work\methods-peer-work\obj\Debug\net8.0\methods-peer-work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\presl\OneDrive\Documents\201\IGME201_Methods-and-Peer-Work\methods-peer-work\obj\Debug\net8.0\methods-peer-work.AssemblyInfoInputs.cache
+C:\Users\presl\OneDrive\Documents\201\IGME201_Methods-and-Peer-Work\methods-peer-work\obj\Debug\net8.0\methods-peer-work.AssemblyInfo.cs
+C:\Users\presl\OneDrive\Documents\201\IGME201_Methods-and-Peer-Work\methods-peer-work\obj\Debug\net8.0\methods-peer-work.csproj.CoreCompileInputs.cache
+C:\Users\presl\OneDrive\Documents\201\IGME201_Methods-and-Peer-Work\methods-peer-work\obj\Debug\net8.0\methods-peer-work.sourcelink.json
+C:\Users\presl\OneDrive\Documents\201\IGME201_Methods-and-Peer-Work\methods-peer-work\bin\Debug\net8.0\methods-peer-work.exe
+C:\Users\presl\OneDrive\Documents\201\IGME201_Methods-and-Peer-Work\methods-peer-work\bin\Debug\net8.0\methods-peer-work.deps.json
+C:\Users\presl\OneDrive\Documents\201\IGME201_Methods-and-Peer-Work\methods-peer-work\bin\Debug\net8.0\methods-peer-work.runtimeconfig.json
+C:\Users\presl\OneDrive\Documents\201\IGME201_Methods-and-Peer-Work\methods-peer-work\bin\Debug\net8.0\methods-peer-work.dll
+C:\Users\presl\OneDrive\Documents\201\IGME201_Methods-and-Peer-Work\methods-peer-work\bin\Debug\net8.0\methods-peer-work.pdb
+C:\Users\presl\OneDrive\Documents\201\IGME201_Methods-and-Peer-Work\methods-peer-work\obj\Debug\net8.0\methods-peer-work.dll
+C:\Users\presl\OneDrive\Documents\201\IGME201_Methods-and-Peer-Work\methods-peer-work\obj\Debug\net8.0\refint\methods-peer-work.dll
+C:\Users\presl\OneDrive\Documents\201\IGME201_Methods-and-Peer-Work\methods-peer-work\obj\Debug\net8.0\methods-peer-work.pdb
+C:\Users\presl\OneDrive\Documents\201\IGME201_Methods-and-Peer-Work\methods-peer-work\obj\Debug\net8.0\methods-peer-work.genruntimeconfig.cache
+C:\Users\presl\OneDrive\Documents\201\IGME201_Methods-and-Peer-Work\methods-peer-work\obj\Debug\net8.0\ref\methods-peer-work.dll
