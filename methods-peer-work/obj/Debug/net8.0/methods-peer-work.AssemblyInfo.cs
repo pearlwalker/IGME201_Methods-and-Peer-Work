@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("methods-peer-work")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1683a34312a91fe1ffeeff9f0edfdbe0fa001eb4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6f0faed23b1bd2592a04aafe950402d32f39953")]
 [assembly: System.Reflection.AssemblyProductAttribute("methods-peer-work")]
 [assembly: System.Reflection.AssemblyTitleAttribute("methods-peer-work")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
